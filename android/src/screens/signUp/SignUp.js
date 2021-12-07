@@ -84,7 +84,7 @@ export class SignUp extends React.Component {
             }}>
             <V
               style={{
-                height: hp('64%'),
+                height: hp('65%'),
                 width: wp('80%'),
                 // backgroundColor: '#0005',
                 marginTop: hp('8%'),
